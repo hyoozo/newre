@@ -1,0 +1,371 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Star04",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.variables.Star04",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Star03",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.variables.Star03",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex_this",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.variables.Ex_this",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex_continue",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.variables.Ex_continue",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex_while",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.variables.Ex_while",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Star10",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.variables.Star10",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Star02",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.variables.Star02",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Star01",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.variables.Star01",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q01",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.variables.Q01",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex7_11",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex7_11",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex7_10",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex7_10",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Myoop",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.ProjeckOOP.Myoop",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch OthersOOP",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.ProjeckOOP.OthersOOP",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch othersOOP",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.ProjeckOOP.othersOOP",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch 서울",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.서울",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch type",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.type",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex6_16",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex6_16",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex6",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex6",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Student",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex6_1",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex6_1",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex6_11",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex6_11",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex6_3",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex6_3",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex6_2",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex6_2",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Haha",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Haha",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch haha",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.haha",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch A",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.A",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex5_9",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex5_9",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex5_5Lotto",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex5_5Lotto",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex5_4shuffle",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex5_4shuffle",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch iArr",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.iArr",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex4_9",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex4_9",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex4_7",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex4_7",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex4_5",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex4_5",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex4_20",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex4_20",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch star2",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.star2",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch star",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.star",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex4_4",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex4_4",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3_3",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex3_3",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3_2",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex3_2",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3_11",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.Ex3_11",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch New",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.newss.New",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.numbers.Practice",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch J",
+            "request": "launch",
+            "mainClass": "J",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prac",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.variables.Prac",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch A",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.variables.A",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Gugudan",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.variables.Gugudan",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Track",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.variables.Track",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Numer",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.numbers.Numer",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch InputDemo",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.variables.InputDemo",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntegerDemo",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.variables.IntegerDemo",
+            "projectName": "java1_607dfb10"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringDemo",
+            "request": "launch",
+            "mainClass": "org.opentutorials.javatutorials.variables.StringDemo",
+            "projectName": "java1_607dfb10"
+        }
+    ]
+}
